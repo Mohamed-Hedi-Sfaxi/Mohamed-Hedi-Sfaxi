@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Computer Engineering specializing in Internet of Things
 - 💞️ I’m looking to collaborate on small projects to gain experience
 - 📫 How to reach me: medhedisfaxi2@gmail.com
-                      facebook.com/med.hedi.sfexi
-                      instagram.com/med.hedi.sfexi
                        
                        
 
