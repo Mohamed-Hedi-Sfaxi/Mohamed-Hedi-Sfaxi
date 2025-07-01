@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-hedi-sfaxi&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-hedi-sfaxi" /> </p>
 
-- 🎓 I recently graduated with a Bachelor's degree in **Embedded Systems & Internet of things (IOT)**
+- 🎓 Graduate with a Bachelor's degree in **Embedded Systems & Internet of things (IOT)**
 
 - 📫 How to reach me **medhedisfaxi2@gmail.com**
 
